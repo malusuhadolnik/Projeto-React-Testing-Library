@@ -11,7 +11,7 @@ Os arquivos desenvolvidos por mim estão em src/tests/.
 
 Os demais foram desenvolvidos pelo time da Trybe
 
-## Técnologias usadas
+## Tecnologias usadas
 
 React.js, Javascript, React Testing Library.
 
